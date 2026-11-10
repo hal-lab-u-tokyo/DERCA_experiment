@@ -1,4 +1,4 @@
-### Note: This repository is a fork of DERCA. The original README has been renamed to README_upstream.md.
+### Note: This repository is a fork of [DERCA](https://github.com/arc-research-lab/DERCA). The original README has been renamed to README_upstream.md.
 
 ---
 
